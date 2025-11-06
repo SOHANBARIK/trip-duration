@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sohan/trip-duration/trip-duration/mlruns/0/7db0afb2dc4d42cdbc871dd2fa17993e/artifacts
+end_time: 1762410502830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7db0afb2dc4d42cdbc871dd2fa17993e
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762410489717
+status: 3
+tags: []
+user_id: sohan

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sohan/trip-duration/trip-duration/mlruns/0/d12ac8fb0f99481997e12259dbd5d530/artifacts
+end_time: 1762328484437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d12ac8fb0f99481997e12259dbd5d530
+run_name: XGB Final Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762328450665
+status: 3
+tags: []
+user_id: sohan

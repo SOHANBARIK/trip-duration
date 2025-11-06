@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/sohan/trip-duration/trip-duration/mlruns/0/models/m-6caa42f2c93d43c2880fbfa5db47f26c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-6caa42f2c93d43c2880fbfa5db47f26c
+model_size_bytes: 580412
+model_uuid: m-6caa42f2c93d43c2880fbfa5db47f26c
+prompts: null
+run_id: c521069c037740e499e06bfedd68ddf8
+utc_time_created: '2025-11-06 06:28:24.932212'

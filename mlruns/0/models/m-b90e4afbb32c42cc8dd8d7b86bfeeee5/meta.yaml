@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sohan/trip-duration/trip-duration/mlruns/0/models/m-b90e4afbb32c42cc8dd8d7b86bfeeee5/artifacts
+creation_timestamp: 1762328450977
+experiment_id: '0'
+last_updated_timestamp: 1762328484411
+model_id: m-b90e4afbb32c42cc8dd8d7b86bfeeee5
+model_type: null
+name: model
+source_run_id: d12ac8fb0f99481997e12259dbd5d530
+status: 2
+status_message: null
