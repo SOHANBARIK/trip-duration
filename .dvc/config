@@ -1,2 +1,7 @@
 [core]
     autostage = true
+    remote = temp
+['remote "myremote"']
+    url = ../TEMP
+['remote "temp"']
+    url = C:\Users\sohan\trip-duration\trip-duration\TEMP
